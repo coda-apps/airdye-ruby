@@ -1,6 +1,6 @@
-# Airdye::Ruby
+# Airdye RubyGem
 
-TODO: Write a gem description
+This little library is intended to wrap functions available from Airdye.IO
 
 ## Installation
 
